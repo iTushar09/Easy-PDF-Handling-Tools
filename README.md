@@ -31,3 +31,6 @@ pip install streamlit pymupdf PyPDF2 pillow
 Made with ❤️ by Tushar Chaudhari
 
 📧 tusharchaudhari1809@gmail.com
+
+
+#https://easy-pdf-handling-tools-by-tusharchaudhari.streamlit.app/
